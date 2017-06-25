@@ -1,0 +1,13 @@
+{
+ "description" : "A Debian wheezy port, optimised for the Raspberry Pi",
+ "flavour" : "Raspbian",
+ "imagefolder" : "/mnt/os/Raspbian",
+ "keyboard" : "gb",
+ "language" : "en",
+ "partitions" : [
+"/dev/mmcblk0p5",
+"/dev/mmcblk0p6"
+ ],
+ "release_date" : "2015-02-16",
+ "videomode" : 0
+}
